@@ -1,1 +1,1 @@
-# blogify
+# WP
